@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a self-taught programmer with great passion for technology. My main goal is to be a full-stack web developer
+I'm a self-taught programmer with great passion for technology. My main goal is to be a full-stack web developer and an entrepreneur.
 
 ## 🌐 Socials:
 
