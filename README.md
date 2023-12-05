@@ -23,7 +23,7 @@ I'm a self-taught programmer with great passion for technology. My main goal is 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 😎 Just For Fun:
-These are technologies that I used for projects, courses, and Bootcamps
+These are technologies that I used for projects, courses, and Bootcamps. <br/>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
